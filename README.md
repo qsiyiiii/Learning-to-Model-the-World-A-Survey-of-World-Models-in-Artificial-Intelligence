@@ -28,7 +28,7 @@
 * nuscenes: A multimodal dataset for autonomous driving. [paper](https://arxiv.org/abs/1903.11027) ![会议徽章](https://img.shields.io/badge/CVPR-2020-blue)
 * ACT-Bench: Towards Action Controllable World Models for Autonomous Driving. [paper](https://arxiv.org/abs/2412.05337) ![会议徽章](https://img.shields.io/badge/arXiv-2024.12-red)
 * Jump cell painting dataset: morphological impact of 136,000 chemical and genetic perturbations. [paper](https://www.biorxiv.org/content/10.1101/2023.03.23.534023v1) ![会议徽章](https://img.shields.io/badge/BioRxiv-2023-blue)
-* A machine learning modelto predict hepatocellular carcinoma response to transcatheter arterial chemoembolization.  [paper](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180021) ![会议徽章]([https://img.shields.io/badge/Radiology%3A %20Artificial%20Intelligence-2019-purple](https://img.shields.io/badge/Radiology)
+* A machine learning modelto predict hepatocellular carcinoma response to transcatheter arterial chemoembolization.  [paper](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180021) ![会议徽章](https://img.shields.io/badge/Radiology-2019-purple)
 * The arcade learning environment: An evaluation platform for general agents. [paper](https://arxiv.org/abs/1207.4708) ![会议徽章](https://img.shields.io/badge/arXiv-2012-red)
 * Minerl: A large-scale dataset of minecraft demonstrations. [paper](https://arxiv.org/abs/1907.13440) ![会议徽章](https://img.shields.io/badge/IJCAI-2019-blue)
 * OSWorld: Benchmarking multimodal agents for open-ended tasks in real computer environments. [paper](https://arxiv.org/abs/2404.07972) ![会议徽章](https://img.shields.io/badge/NeurIPS-2024-blue)
