@@ -2,7 +2,7 @@
 ***
 ## 3.6 Interpretable and Trustworthy World Models
 ***
-* General agents need world models [paper](https://icml.cc/virtual/2025/poster/44620) ![会议徽章](https://img.shields.io/badge/ICML-2025-blue)
+* General agents need world models$$$ [paper](https://icml.cc/virtual/2025/poster/44620) ![会议徽章](https://img.shields.io/badge/ICML-2025-blue)
 * A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment [paper](https://arxiv.org/abs/2412.07446) ![会议徽章](https://img.shields.io/badge/arXiv-2024.12-red)
 * Transformers Use Causal World Models in Maze-Solving Tasks [paper](https://iclr.cc/virtual/2025/37549) ![会议徽章](https://img.shields.io/badge/ICLR-2025-blue)
 * When Do Neural Networks Learn World Models? [paper](https://arxiv.org/abs/2502.09297) ![会议徽章](https://img.shields.io/badge/arXiv-2025.02-red)
