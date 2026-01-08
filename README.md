@@ -2,21 +2,21 @@
 ***
 ## 3.6 Interpretable and Trustworthy World Models
 ***
-* General agents need world models [paper](https://arxiv.org/abs/2506.01622) ![会议徽章](https://img.shields.io/badge/ICML-2025-blue)
+* General agents need world models [paper](https://icml.cc/virtual/2025/poster/44620) ![会议徽章](https://img.shields.io/badge/ICML-2025-blue)
 * A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment [paper](https://arxiv.org/abs/2412.07446) ![会议徽章](https://img.shields.io/badge/arXiv-2024.12-red)
-* Transformers Use Causal World Models in Maze-Solving Tasks [paper](https://arxiv.org/abs/2412.11867) ![会议徽章](https://img.shields.io/badge/ICLR-2025-blue)
+* Transformers Use Causal World Models in Maze-Solving Tasks [paper](https://iclr.cc/virtual/2025/37549) ![会议徽章](https://img.shields.io/badge/ICLR-2025-blue)
 * When Do Neural Networks Learn World Models? [paper](https://arxiv.org/abs/2502.09297) ![会议徽章](https://img.shields.io/badge/arXiv-2025.02-red)
 * Linear spatial world models emerge in large language models. [paper](https://arxiv.org/abs/2506.02996) ![会议徽章](https://img.shields.io/badge/arXiv-2025.06-red)
 * Revisiting the othello world model hypothesis. [paper](https://arxiv.org/abs/2503.04421) ![会议徽章](https://img.shields.io/badge/arXiv-2025.03-red)
 * Scaling laws for pre-training agents and world models. [paper](https://arxiv.org/abs/2411.04434) ![会议徽章](https://img.shields.io/badge/arXiv-2024.11-red)
 * How hard is it to confuse a world model? [paper](https://arxiv.org/abs/2510.21232) ![会议徽章](https://img.shields.io/badge/arXiv-2025.10-red)
-* Utilizing world models for adaptively covariate acquisition under limited budget for causal decision making. [paper](https://openreview.net/forum?id=wUcuUP2DjK) ![会议徽章](https://img.shields.io/badge/ICLR-2025-blue)
+* Utilizing world models for adaptively covariate acquisition under limited budget for causal decision making. [paper](https://iclr.cc/virtual/2025/37518) ![会议徽章](https://img.shields.io/badge/ICLR-2025-blue)
 ***
 # Part4:BENCHMARK OF WORLD MODELS
 ***
 ## 4.1 Benchmark Datasets & Evaluation Metrics
 ***
-* Frozen in time: A joint video and image encoder for end-to-end retrieval. [paper](https://arxiv.org/abs/2104.00650) ![会议徽章](https://img.shields.io/badge/ICCV-2021-blue)
+* Frozen in time: A joint video and image encoder for end-to-end retrieval. [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Bain_Frozen_in_Time_A_Joint_Video_and_Image_Encoder_for_ICCV_2021_paper.html) ![会议徽章](https://img.shields.io/badge/ICCV-2021-blue)
 * Panda-70m: Captioning 70m videos with multiple cross-modality teachers. [paper](https://arxiv.org/abs/2402.19479) ![会议徽章](https://img.shields.io/badge/CVPR-2024-blue)
 * Ego4d: Around the world in 3,000 hours of egocentric video. [paper](https://arxiv.org/abs/2110.07058) ![会议徽章](https://img.shields.io/badge/CVPR-2022-blue)
 * Howto100m: Learning a text-video embedding by watching hundred million narrated video clips. [paper](https://arxiv.org/abs/1906.03327) ![会议徽章](https://img.shields.io/badge/ICCV-2019-blue)
